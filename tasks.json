@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Groceries",
+        "description": "go to supermarket and bring dozen Eggs",
+        "category": "Personal",
+        "completed": true
+    },
+    {
+        "title": "Homework",
+        "description": "Complete your Homework by today",
+        "category": "Urgent",
+        "completed": false
+    },
+    {
+        "title": "Work Update",
+        "description": "Send a Email to Manager ",
+        "category": "Work",
+        "completed": false
+    }
+]
