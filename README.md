@@ -18,3 +18,20 @@ This Personal To-Do List Application is built with Python and Tkinter, enabling 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd your-repo-name
+
+## Usage
+1. Run the application:
+   ```bash
+   python todo_gui.py
+
+2. Use the buttons in the GUI to add, mark, or delete tasks.
+
+3. Tasks will be saved in `tasks.json` automatically.
+
+## Acknowledgements
+- Thanks to the Tkinter community for documentation and support.
+- Inspired by personal needs for task management.
